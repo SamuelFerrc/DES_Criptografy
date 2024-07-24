@@ -1,0 +1,3 @@
+C:/Users/lacer/CLionProjects/AlgorithmCript/cmake-build-debug/CMakeFiles/AlgorithmCript.dir
+C:/Users/lacer/CLionProjects/AlgorithmCript/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lacer/CLionProjects/AlgorithmCript/cmake-build-debug/CMakeFiles/rebuild_cache.dir

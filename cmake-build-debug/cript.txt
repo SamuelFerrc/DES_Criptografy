@@ -1,0 +1,21 @@
+56 : 0   Valor de Y: 1
+ 48 : 1   Valor de Y: 3
+ 40 : 3   Valor de Y: 11
+ 32 : 4   Valor de Y: 27
+ 0 : 8   Valor de Y: 283
+ 57 : 9   Valor de Y: 795
+ 49 : 10   Valor de Y: 1819
+ 41 : 11   Valor de Y: 3867
+ 33 : 12   Valor de Y: 7963
+ 9 : 15   Valor de Y: 40731
+ 1 : 16   Valor de Y: 106267
+ 58 : 17   Valor de Y: 237339
+ 50 : 18   Valor de Y: 499483
+ 42 : 19   Valor de Y: 1023771
+ 34 : 20   Valor de Y: 2072347
+ 10 : 23   Valor de Y: 10460955
+ 59 : 25   Valor de Y: 44015387
+ 51 : 26   Valor de Y: 111124251
+ 43 : 27   Valor de Y: 245341979
+ 35 : 28   Valor de Y: 513777435
+ 
