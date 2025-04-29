@@ -1,1 +1,1 @@
-DES Criptografy made with IBM's guide book.
+DES Criptografy made with C and Data Structure techniques. 
