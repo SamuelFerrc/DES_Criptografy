@@ -1,2 +1,2 @@
-DES Criptografy made with C and Data Structure techniques. 
+DES Criptografy made with C and Data Structure. 
 At uesc
